@@ -1,3 +1,4 @@
 [![turbo-repost-bot deploy](https://github.com/VMTech-Services/turbo-repost-bot/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/VMTech-Services/turbo-repost-bot/actions/workflows/deploy.yml)
 [![Fish-Bot deploy](https://github.com/VMTech-Services/fishing_tg_bot/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/VMTech-Services/fishing_tg_bot/actions/workflows/deploy.yml)
 [![docker-service-monitor deploy](https://github.com/VMTech-Services/docker_service_monitor/actions/workflows/deploy.yml/badge.svg)](https://github.com/VMTech-Services/docker_service_monitor/actions/workflows/deploy.yml)
+[![rat-today deploy](https://github.com/VMTech-Services/rat_catcher_bot/actions/workflows/deploy.yml/badge.svg)](https://github.com/VMTech-Services/rat_catcher_bot/actions/workflows/deploy.yml)
